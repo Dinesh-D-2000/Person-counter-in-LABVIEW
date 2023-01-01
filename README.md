@@ -14,7 +14,7 @@ Many times we need to monitor the people visiting some place like shopping mall.
 <li >NI LABVIEW</li>
  </ul>
 <h2 >Working</h2>
-  <p>LABVIEW gets the sensor data via a Data Acquisition System(DAQ). In our project arduino UNO serves that need. The number of people entering and leaving a room is displayed in the front panel of the LABVIEW as shown below</p>
+  <p>LABVIEW gets the sensor data via a Data Acquisition System(DAQ). In our project arduino UNO serves that need. The number of people entering and leaving a room is displayed in the front panel of the LABVIEW as shown below.</p>
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/81762286/113396877-d2373b80-93b9-11eb-8923-c09d3b1ce175.gif">
 </p>
